@@ -1001,9 +1001,9 @@
     spark-md5 "^3.0.0"
 
 "@rails/ujs@^6.0.0":
-  version "6.1.6"
-  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.6.tgz#de486ae0a663e1bed637a012cbb2739bfcfa2031"
-  integrity sha512-2M4zlthYmOC6X/tcPcFd//sIL26a7JbCpGNl8uIrQf+pR1Z47uhYt9cOwVqJTJZPurdy2k+YY3Pn64pqruAPEA==
+  version "6.1.710"
+  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.710.tgz#14cbf938c49985af51cca52d117f9c358ea4a579"
+  integrity sha512-NUS8nUkYHGSn/EDg3oJCkpMweSKeFxA4ef6pcnW2fJEZ7RcoWdJa1rr9vamUoqzNR+Ctd8ezsgBMAjxUahVB1w==
 
 "@rails/webpacker@5.4.3":
   version "5.4.3"
