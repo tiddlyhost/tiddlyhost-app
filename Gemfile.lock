@@ -106,7 +106,8 @@ GEM
     crass (1.0.6)
     css_parser (1.11.0)
       addressable
-    dalli (3.2.2)
+    dalli (3.2.15)
+      logger
     devise (4.8.1)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -146,6 +147,7 @@ GEM
       actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
     jmespath (1.6.1)
+    logger (1.7.0)
     loofah (2.18.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
